@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for aaa-bcjiza on 2025-12-15T23:32:28Z
+# fly.toml app configuration file generated for aaa-e3cvoa on 2025-12-15T23:42:46Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'aaa-bcjiza'
-primary_region = 'cdg'
+app = 'aaa-e3cvoa'
+primary_region = 'iad'
 
 [build]
 
